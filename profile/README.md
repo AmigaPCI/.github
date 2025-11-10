@@ -1,0 +1,1 @@
+The AmigaPCI is an OCS/ECS Amiga computer in the ATX form factor. It provides a flexible CPU Local Bus port, five AUTOCONFIG PCI slots for expansion purposes such as video and sound, HID input, an on-board dual port ATA controller, and other improvements over legacy Amiga designs.
