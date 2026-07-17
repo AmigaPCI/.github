@@ -16,3 +16,6 @@ If you are building the AmigaPCI from scratch, you should start at the [Building
 * [AmigaPCI Hardware Reference](https://github.com/AmigaPCI/AmigaPCI-MainBoard/blob/main/AmigaPCI_Hardware_Reference_Guide.md)
 * [AmigaPCI HID User Guide](/)  
 * [AmigaPCI PCI Developers Guide](https://github.com/AmigaPCI/AmigaPCI-MainBoard/blob/main/AmigaPCI_PCI_Dev_Guide.md)  
+
+## Links
+* [AmigaPCI STM Microcontoller Firmware](https://github.com/cdhooper/amigapci_stm32)  
