@@ -8,8 +8,6 @@ The AmigaPCI is an OCS/ECS Amiga computer in the ATX form factor. It provides a 
 * **RTL files for FPGAs and STM Microcontroller**  
 * **Hardware documentation**  
 
-If you are building the AmigaPCI from scratch, you should start at the [Building the AmigaPCI](/) document. If you already have a working board, you should review the [AmigaPCI Hardware Reference](https://github.com/AmigaPCI/AmigaPCI-MainBoard/blob/main/AmigaPCI_Hardware_Reference_Guide.md).
-
 ## Documentation  
 * [AmigaPCI Wiki](https://github.com/AmigaPCI/AmigaPCI-MainBoard/wiki)  
 
