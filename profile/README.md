@@ -11,11 +11,7 @@ The AmigaPCI is an OCS/ECS Amiga computer in the ATX form factor. It provides a 
 If you are building the AmigaPCI from scratch, you should start at the [Building the AmigaPCI](/) document. If you already have a working board, you should review the [AmigaPCI Hardware Reference](https://github.com/AmigaPCI/AmigaPCI-MainBoard/blob/main/AmigaPCI_Hardware_Reference_Guide.md).
 
 ## Documentation  
-* [Building the AmigaPCI](/)  
-* [Programming the Logic and Microcontroller of the AmigaPCI](/)  
-* [AmigaPCI Hardware Reference](https://github.com/AmigaPCI/AmigaPCI-MainBoard/blob/main/AmigaPCI_Hardware_Reference_Guide.md)
-* [AmigaPCI HID User Guide](/)  
-* [AmigaPCI PCI Developers Guide](https://github.com/AmigaPCI/AmigaPCI-MainBoard/blob/main/AmigaPCI_PCI_Dev_Guide.md)  
+* [AmigaPCI Wiki](https://github.com/AmigaPCI/AmigaPCI-MainBoard/wiki)  
 
 ## Links
 * [AmigaPCI STM Microcontoller Firmware](https://github.com/cdhooper/amigapci_stm32)  
